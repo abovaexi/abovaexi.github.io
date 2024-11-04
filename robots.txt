@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://abovaexi.github.io/DnA/sitemap_index.txt
+Sitemap: https://abovaexi.github.io/NjL/sitemap_index.txt
+Sitemap: https://abovaexi.github.io/gvj/sitemap_index.txt
+Sitemap: https://abovaexi.github.io/vgO/sitemap_index.txt
